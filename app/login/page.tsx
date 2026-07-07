@@ -118,8 +118,8 @@ export default function LoginPage() {
             <Image
               src="/images/Yazaki_company_logo.png"
               alt="Yazaki"
-              width={240}
-              height={90}
+              width={100}
+              height={10}
               priority
             />
 
